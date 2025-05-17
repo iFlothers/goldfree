@@ -1600,7 +1600,7 @@ async function patch_kernel(kbase, kmem, p_ucred, restore_info) {
     log('Exploit executado com sucesso! Clique em OK e selecione o GoldHEN na lista de payloads.');
     alert("Exploit executado com sucesso! Clique em OK e selecione o GoldHEN na lista de payloads.");
 	
-	window.location.href = "/goldhen/index.html?status=success";
+	window.location.href = "/goldfree/goldhen/index.html?status=success";
 }
 
 // FUNCTIONS FOR STAGE: SETUP

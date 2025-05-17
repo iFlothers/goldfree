@@ -1600,7 +1600,7 @@ async function patch_kernel(kbase, kmem, p_ucred, restore_info) {
     log('Sucesso... Aperte OK e selecione o GoldHEN!');
     alert("Sucesso... Aperte OK e selecione o GoldHEN!");
 	
-	window.location.href = "../goldhen/jb.html#goldhen_v2.4b18.3.bin?status=success";
+	window.location.href = "../goldhen/index.html?status=success";
 }
 
 // FUNCTIONS FOR STAGE: SETUP
